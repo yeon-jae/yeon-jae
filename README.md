@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-jae&layout=compact)](https://github.com/yeon-jae/github-readme-stats)
 
     
-## 🔨 Once I've used 🔨
+## 📚 STACKS
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
    <!-- <p><strong>Backend</strong></p>
@@ -37,3 +37,6 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 </div>
+
+## 📱HOW TO REACH ME
+<p align="left"><a href="https://yeon-jae.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://yeon-jae.tistory.com/"/></a>  <a href="mailto:lisanamyj99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lisanamyj99@gmail.com"/></a></p>

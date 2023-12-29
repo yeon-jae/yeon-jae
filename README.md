@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20YEONJAE's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+(여기에 자신의 강점과 기술, 경험 등에 대해 소개해주세요.)
+
 [![Yeon Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon-jae)](https://github.com/yeon-jae/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-jae&layout=compact)](https://github.com/yeon-jae/github-readme-stats)
 
-    
 ## 📚 STACKS
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->

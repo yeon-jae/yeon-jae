@@ -6,9 +6,12 @@
 이런 개발자가 되기 위해 코더가 아닌 프로그래머로서 꾸준히 노력하고 있습니다 😄<br><br><br>
 <!--(위 소개와 연관된 프로젝트의 링크를 달아주세요.)-->
 
+
 [![Yeon Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon-jae)](https://github.com/yeon-jae/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-jae&layout=compact)](https://github.com/yeon-jae/github-readme-stats)
-
+<!--백준 티어
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello99)](https://solved.ac/hello99/)
+-->
 
 ## 🛠️ STACKS
 <div style="display:flex; flex-direction:column; align-items:flex-start;">

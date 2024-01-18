@@ -40,5 +40,5 @@
 </div>
 
 ## ✨ CONTACT ME
-<p align="left"><a href="https://yeon-jae.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://yeon-jae.tistory.com/"/></a> 
+<p align="left"><a href="https://yeon-jae.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=[https://yeon-jae.tistory.com](https://yeonj-study.tistory.com/)/"/></a> 
     <a href="mailto:lisanamyj99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lisanamyj99@gmail.com"/></a></p>

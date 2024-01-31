@@ -9,9 +9,9 @@
 
 [![Yeon Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon-jae)](https://github.com/yeon-jae/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-jae&layout=compact)](https://github.com/yeon-jae/github-readme-stats)
-<!--백준 티어
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello99)](https://solved.ac/hello99/)
--->
+
 
 ## 🛠️ STACKS
 <div style="display:flex; flex-direction:column; align-items:flex-start;">

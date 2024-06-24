@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20YEONJAE's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)<br>
 
 <br><br>
 ## :sunglasses: ABOUT ME
 <p> 저는 협업에서는 대화를 중시하며 소통과 팀워크를 최우선 가치로 삼으며 사용자에게 친화적인 <b>프론트엔드 개발자</b>가 되고자 합니다🖐️ </p>
-이런 개발자가 되기 위해 코더가 아닌 프로그래머로서 꾸준히 노력하고 있습니다 😄<br><br><br>
+ 코더가 아닌 프로그래머로서 꾸준히 노력하고 있습니다 😄<br><br><br>
 <!--(위 소개와 연관된 프로젝트의 링크를 달아주세요.)-->
 
 

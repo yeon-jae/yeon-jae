@@ -78,12 +78,6 @@
 
 
 ## 📞 CONTACT ME
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="mailto:yeonjae.dev@gmail.com">
-        <h4>gmail</h4>
-    </a>
-    <a href="mailto:your-email@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Language Icons"/>
-    </a>
-</div>
 
+<p align="left"><a href="https://yeon-jae.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=[https://yeon-jae.tistory.com](https://yeonj-study.tistory.com/)/"/></a> 
+    <a href="mailto:lisanamyj99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lisanamyj99@gmail.com"/></a></p>

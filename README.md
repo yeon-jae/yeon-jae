@@ -12,8 +12,7 @@
 ## 💛 EXPERIENCES 💛
 [2025]<br/>
 ◽ 지식 기반 웹 검색 서비스 Who Knew This FE담당 (2025.07~ ing) <br>
-◽ [교육]LG Aimers 7기 수료 (2025.07 ~ 2025.08 )<br>
-◽ KDB 인턴(2025.10~ ing) <br><br>
+◽ [교육]LG Aimers 7기 수료 (2025.07 ~ 2025.08 )<br><br>
 
 [2024]<br/>
 ◽ [교육]KB IT's your life 5기 수료 (2024.05 ~ 2024.10 )<br><br>
